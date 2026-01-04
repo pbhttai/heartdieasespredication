@@ -1,16 +1,14 @@
-## Flask Template App
+## Heart Dieases Predication
 
-This is a simple Flask web application that demonstrates how to use
-**HTML templates** and **static files (CSS)** in Flask.
-
+This is a simple Streamlit based application that predict person have heart dieases or not using classification technique in machine learning.
 
 ### How to Run the App
 ```bash
-python app.py
+streamlit run app.py
 ```
-
 
 ### Clone or Download the Project
 ```bash
-git clone https://github.com/pbhttai/testforestfire.git
-cd testforestfire
+git clone https://github.com/pbhttai/heartdieasespredication.git
+cd heartdieasespredication
+```
